@@ -22,13 +22,13 @@ organizations:
     url: https://www.damtp.cam.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include (Beyond)the Standard Model physics, Collider Physics and Effective Field Theories.
+bio: My research interests include (Beyond) the Standard Model physics, Collider Physics and Effective Field Theories.
 
 interests:
-  - Black holes
-  - Accretion disks
-  - Active Galactic Nuclei
-  - Magnetic dynamos
+  - Particle Physics
+  - Standard Model and Beyond
+  - Effective Field Theories
+  - Collider physics
 
 # Education to show in About widget
 education:
@@ -59,7 +59,7 @@ social:
     link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Kbkq-2MAAAAJ&hl=fr&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -80,5 +80,9 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student at the [University of Cambridge](https://www.cam.ac.uk/about-the-university), in the Department of Applied Mathematics and Theoretical Physics or [DAMTP](https://www.damtp.cam.ac.uk). I am working with Prof. Maria Ubiali. My research focus is particle physics phenomenology. This is a bridge between theoretical and experiemental researches. I work on extending the Standard Model of particles using Effective Field Theory (EFT) terms which allow to describe the effects of potential heavy new physics without knowing its nature in advance. I am currently working on the interplay of Parton Distribution Functions (PDFs) describing the proton's structure and new physics parameterised by EFT.
+
+I have started my education in France in [Lycée Saint-Louis](https://lycee-saintlouis.fr) and [Ecole polytechnique](https://www.polytechnique.edu) before moving to the UK.
+
+My research relies greatly on computation method to simulate and analyse collider data. In the future I plan to work toward the identification of relevant datasets and theoretical constraints to ensure the fitting methods we use to hunt new physics are robust.
 {style="text-align: justify;"}
