@@ -11,29 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url:
-          date_end: ''
-          date_start: '2020-10-15'
-          description: ''
-          organization: Ecole polytechnique
-          organization_url: https://www.polytechnique.edu
-          title: Research Centre prize (Prix du Centre de Recherche, Ecole polytechnique)
-          url: 'https://portail.polytechnique.edu/hss/programmes/annee-3/stages-de-recherche'
-    design:
-      columns: '1'
   - block: collection
     content:
       title: Publications
@@ -58,6 +35,29 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Prizes'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url:
+          date_end: ''
+          date_start: '2020-10-15'
+          description: ''
+          organization: Ecole polytechnique
+          organization_url: https://www.polytechnique.edu
+          title: Research Centre prize (Prix du Centre de Recherche, Ecole polytechnique)
+          url: 'https://portail.polytechnique.edu/hss/programmes/annee-3/stages-de-recherche'
+    design:
+      columns: '1'
   - block: contact
     id: contact
     content:

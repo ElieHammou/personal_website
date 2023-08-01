@@ -80,7 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student at the [University of Cambridge](https://www.cam.ac.uk/about-the-university), in the Department of Applied Mathematics and Theoretical Physics or [DAMTP](https://www.damtp.cam.ac.uk). I am working with Prof. Maria Ubiali. My research focus is particle physics phenomenology. This is a bridge between theoretical and experiemental researches. I work on extending the Standard Model of particles using Effective Field Theory (EFT) terms which allow to describe the effects of potential heavy new physics without knowing its nature in advance. I am currently working on the interplay of Parton Distribution Functions (PDFs) describing the proton's structure and new physics parameterised by EFT.
+I am a PhD student at the [University of Cambridge](https://www.cam.ac.uk/about-the-university), in the Department of Applied Mathematics and Theoretical Physics or [DAMTP](https://www.damtp.cam.ac.uk). I am working with [Prof. Maria Ubiali's group](https://www.pbsp.org.uk/about/). My research focus is particle physics phenomenology. This is a bridge between theoretical and experiemental researches. I work on extending the Standard Model of particles using Effective Field Theory (EFT) terms which allow to describe the effects of potential heavy new physics without knowing its nature in advance. I am currently working on the interplay of Parton Distribution Functions (PDFs) describing the proton's structure and new physics parameterised by EFT.
 
 I have started my education in France in [Lycée Saint-Louis](https://lycee-saintlouis.fr) and [Ecole polytechnique](https://www.polytechnique.edu) before moving to the UK.
 
