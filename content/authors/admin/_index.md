@@ -57,15 +57,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `graduation-cap` icon from `fas` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=Kbkq-2MAAAAJ&hl=fr&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=elie%20hammou
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
