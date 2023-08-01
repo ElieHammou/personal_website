@@ -1,47 +1,48 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Elie Hammou
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Elie
+last_name: Hammou
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student in Particle Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Cambridge, DAMTP
+    url: https://www.damtp.cam.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include (Beyond)the Standard Model physics, Collider Physics and Effective Field Theories.
 
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Particle Physics
+      institution: University of Cambridge
+      year: Current
+    - course: MASt of Applied Mathemmatics and Theoretical Physics
+      institution: University of Cambridge
+      year: 2022
+    - course: Diplôme d'ingénieur (Master in physics)
+      institution: Ecole polytechnique
+      year: 2021
+    - course: Licence of philosophy (Bachelor)
+      institution: Université Paris-Nanterre
+      year: 2020
+    - course: B.A. in maths and physics
+      institution: Lycée Saint-Louis
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,12 +52,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
