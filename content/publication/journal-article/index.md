@@ -1,16 +1,17 @@
 ---
-title: "An example journal article"
+title: "Hide and seek: how PDFs can conceal New Physics"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Zahari Kassabov
+- Maeve Madigan
+- Michelangelo L Mangano
+- Luca Mantani
+- James Moore
+- Manuel Morales Alvarado
+- Maria Ubiali
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+date: "2023/07/19"
+eprint: "2307.10370"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
