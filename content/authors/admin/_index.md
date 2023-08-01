@@ -24,6 +24,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include (Beyond)the Standard Model physics, Collider Physics and Effective Field Theories.
 
+interests:
+  - Black holes
+  - Accretion disks
+  - Active Galactic Nuclei
+  - Magnetic dynamos
 
 # Education to show in About widget
 education:
