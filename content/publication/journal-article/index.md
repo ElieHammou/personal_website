@@ -23,10 +23,10 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The interpretation of LHC data, and the assessment of possible hints of new physics, require the precise knowledge of the proton structure in terms of parton distribution functions (PDFs). We present a systematic methodology designed to determine whether and how global PDF fits might inadvertently 'fit away' signs of new physics in the high-energy tails of the distributions. We showcase a scenario for the High-Luminosity LHC, in which the PDFs may completely absorb such signs of new physics, thus biasing theoretical predictions and interpretations. We discuss strategies to single out the effects in this scenario, and disentangle the inconsistencies that stem from them. Our study brings to light the synergy between the high luminosity programme at the LHC and future low-energy non-LHC measurements of large-x sea quark distributions. The analysis code used in this work is made public so that any users can test the robustness of the signal associated to a given BSM model against absorption by the PDFs.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -35,8 +35,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://arxiv.org/abs/2307.10370
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -46,10 +46,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
