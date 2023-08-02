@@ -10,7 +10,7 @@ authors:
 - Manuel Morales Alvarado
 - Maria Ubiali
 
-date: "2023/07/19"
+date: "2023-07-19"
 eprint: "2307.10370"
 
 # Publication type.
