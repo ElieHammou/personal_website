@@ -40,9 +40,9 @@ links:
   - icon: 
     icon_pack: 
     name: 
-    url: 
+    url: 'uploads/Blois_2023.pdf'
 url_code: ''
-url_pdf: 'https://www.pbsp.org.uk/wp-content/uploads/2023/07/Hammou_Blois.pdf'
+#url_pdf: 'https://www.pbsp.org.uk/wp-content/uploads/2023/07/Hammou_Blois.pdf'
 url_slides: ''
 url_video: ''
 
