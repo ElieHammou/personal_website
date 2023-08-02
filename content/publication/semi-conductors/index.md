@@ -34,13 +34,13 @@ abstract: Irradiation with high-energy electrons (HEE) at cryogenic temperatures
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12002/1200207/Effect-of-high-energy-electron-irradiation-on-the-electronic-properties/10.1117/12.2622559.short?SSO=1'
+url_pdf: 
+url_code:
 url_dataset: 
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 
+url_source: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12002/1200207/Effect-of-high-energy-electron-irradiation-on-the-electronic-properties/10.1117/12.2622559.short?SSO=1'
 url_video: 
 
 
