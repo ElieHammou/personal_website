@@ -34,7 +34,7 @@ sections:
         folders:
           - talks
     design:
-      columns: '1'
+      columns: '2'
       view: compact
   - block: accomplishments
     content:
@@ -58,7 +58,7 @@ sections:
           title: Research Centre prize (Prix du Centre de Recherche, Ecole polytechnique)
           url: 'https://portail.polytechnique.edu/hss/programmes/annee-3/stages-de-recherche'
     design:
-      columns: '1'
+      columns: '2'
 #  - block: contact
 #   id: contact
 #    content:
