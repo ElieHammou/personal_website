@@ -10,7 +10,8 @@ authors:
   - Romain Grasset
   - Antonino Alessi
   - Henri-Jean Drouhin
-  - Henri Jaffrès et al.
+  - Henri Jaffrès
+  - et al
 
 
 
