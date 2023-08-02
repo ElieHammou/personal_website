@@ -4,6 +4,8 @@ title:
 date: 2022-10-24
 type: landing
 
+<link rel="icon" type="image/png" href="assets/media/icon.png"/>
+
 sections:
   - block: about.biography
     id: about
@@ -40,6 +42,7 @@ sections:
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards'
+      id: awards
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
