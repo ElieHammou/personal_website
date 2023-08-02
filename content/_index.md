@@ -4,8 +4,6 @@ title:
 date: 2022-10-24
 type: landing
 
-<link rel="icon" type="image/png" href="assets/media/icon.png"/>
-
 sections:
   - block: about.biography
     id: about
