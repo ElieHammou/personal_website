@@ -17,10 +17,10 @@ eprint: "2307.10370"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: ""
 publication_short: ""
 
 abstract: The interpretation of LHC data, and the assessment of possible hints of new physics, require the precise knowledge of the proton structure in terms of parton distribution functions (PDFs). We present a systematic methodology designed to determine whether and how global PDF fits might inadvertently 'fit away' signs of new physics in the high-energy tails of the distributions. We showcase a scenario for the High-Luminosity LHC, in which the PDFs may completely absorb such signs of new physics, thus biasing theoretical predictions and interpretations. We discuss strategies to single out the effects in this scenario, and disentangle the inconsistencies that stem from them. Our study brings to light the synergy between the high luminosity programme at the LHC and future low-energy non-LHC measurements of large-x sea quark distributions. The analysis code used in this work is made public so that any users can test the robustness of the signal associated to a given BSM model against absorption by the PDFs.
@@ -63,7 +63,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides:
 ---
 
 {{% callout note %}}
