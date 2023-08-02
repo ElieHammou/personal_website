@@ -62,7 +62,7 @@ social:
     link: https://scholar.google.com/citations?user=Kbkq-2MAAAAJ&hl=fr&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ElieHammou
   - icon: inspire
     icon_pack: ai
     link: https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=elie%20hammou

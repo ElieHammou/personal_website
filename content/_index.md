@@ -34,7 +34,7 @@ sections:
         folders:
           - talks
     design:
-      columns: '2'
+      columns: '1'
       view: compact
   - block: accomplishments
     content:
