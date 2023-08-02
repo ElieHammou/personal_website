@@ -11,7 +11,12 @@ authors:
   - Antonino Alessi
   - Henri-Jean Drouhin
   - Henri Jaffrès
-  - et al
+  - Valery Yu. Davydov
+  - Agnieszka Wołoś
+  - David J. Rogers
+  - Vinod E. Sandana
+  - Philippe Bove
+  - Féréchteh H. Teherani
 
 
 
