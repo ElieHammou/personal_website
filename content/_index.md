@@ -12,6 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: publications
     content:
       title: Publications
       #text: |-
@@ -58,14 +59,14 @@ sections:
           url: 'https://portail.polytechnique.edu/hss/programmes/annee-3/stages-de-recherche'
     design:
       columns: '1'
-#  - block: contact
-#    id: contact
-#    content:
-#      title: Contact
-#      subtitle:
-#      text: |-
-#        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
+  - block: contact
+   id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: |-
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+       Contact (add or remove contact options as necessary)
       email: 
       phone: 
       appointment_url:
