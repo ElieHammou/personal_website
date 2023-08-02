@@ -1,3 +1,5 @@
+<p align="center"><a href="https://www.paytonelyce.com/" target="_blank" rel="noopener"><img src="/assets/images/icon.png" alt="Payton Rodman's Personal Site" width="300" height="300"></a></p>
+
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
@@ -32,7 +34,6 @@ We're an open source movement that depends on your support to stay online and th
 
 ### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
 
-<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
 
 ## Demo image credits
 
