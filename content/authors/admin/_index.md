@@ -4,7 +4,7 @@ title: Elie Hammou
 
 # Full name (for SEO)
 first_name: Elie
-last_name: Hammou
+last_name: Hammo
 
 # Status emoji
 status:
@@ -19,13 +19,13 @@ role: PhD Student in Particle Physics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Cambridge, DAMTP
-    url: https://www.damtp.cam.ac.uk
+    url: https://www.damtp.cam.ac.uk/person/eh651
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include (Beyond) the Standard Model physics, Collider Physics and Effective Field Theories.
 
 interests:
-  - Particle Physics
+  - Particle Physics the best
   - Standard Model and Beyond
   - Effective Field Theories
   - Collider physics
