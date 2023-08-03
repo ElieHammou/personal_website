@@ -25,7 +25,7 @@ organizations:
 bio: My research interests include (Beyond) the Standard Model physics, Collider Physics and Effective Field Theories.
 
 interests:
-  - Particle Physics the best
+  - Particle Physics
   - Standard Model and Beyond
   - Effective Field Theories
   - Collider physics
