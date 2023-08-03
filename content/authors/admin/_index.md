@@ -31,7 +31,7 @@ interests:
   - Collider physics
 
 # Education to show in About widget
-education and career:
+education:
   courses:
     - course: PhD in Particle Physics
       institution: University of Cambridge
