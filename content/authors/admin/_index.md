@@ -31,7 +31,7 @@ interests:
   - Collider physics
 
 # Education to show in About widget
-education:
+education and career:
   courses:
     - course: PhD in Particle Physics
       institution: University of Cambridge
@@ -62,7 +62,7 @@ social:
     link: https://scholar.google.com/citations?user=Kbkq-2MAAAAJ&hl=fr&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/ElieHammou
+    link: https://github.com/gcushen
   - icon: inspire
     icon_pack: ai
     link: https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=elie%20hammou
