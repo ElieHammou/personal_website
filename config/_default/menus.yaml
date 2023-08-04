@@ -13,6 +13,9 @@ main:
   - name: Talks
     url: '#talks'
     weight: 30
+  - name: CV
+    url: uploads/CV_Academic.pdf
+    weight: 40
 #  - name: Awards
 #    url: '#awards'
 #    weight: 40
