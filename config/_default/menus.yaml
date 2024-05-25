@@ -19,9 +19,9 @@ main:
   - name: CV
     url: uploads/CV_academic.pdf
     weight: 5
- - name: Awards
-   url: '#awards'
-   weight: 6
+  - name: Awards
+    url: '#awards'
+    weight: 6
 #  - name: Contacts
 #    url: '#contacts'
 #    weight: 50
