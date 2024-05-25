@@ -13,21 +13,4 @@ view: 4
 header:
   caption: ''
   image: ''
-
-sections:
-  - block: collection
-    id: proceedings
-    content:
-      title: Conference papers
-      #text: |-
-      #  {{% callout note %}}
-      #  Quickly discover relevant content by [filtering publications](./publication/).
-      #  {{% /callout %}}
-      filters:
-        folders:
-          - proceedings
-        exclude_featured: true
-    design:
-      columns: '1'
-      view: citation
 ---
