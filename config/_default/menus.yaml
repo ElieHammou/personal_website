@@ -6,19 +6,22 @@
 main:
   - name: Home
     url: '#about'
-    weight: 10
+    weight: 1
   - name: Publications
     url: '#publications'
-    weight: 20
+    weight: 2
   - name: Talks
     url: '#talks'
-    weight: 30
+    weight: 3
+  - name: Conference proceedings
+    url: 'content/proceedings/'
+    weight: 4
   - name: CV
     url: uploads/CV_academic.pdf
-    weight: 40
-#  - name: Awards
-#    url: '#awards'
-#    weight: 40
+    weight: 5
+ - name: Awards
+   url: '#awards'
+   weight: 6
 #  - name: Contacts
 #    url: '#contacts'
 #    weight: 50
