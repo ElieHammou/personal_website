@@ -1,5 +1,5 @@
 ---
-title: Conference papers
+title: Awards
 cms_exclude: true
 
 # View.
@@ -7,7 +7,7 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 4
+view: 1
 
 # Optional header image (relative to `static/media/` folder).
 header:
