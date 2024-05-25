@@ -1,5 +1,5 @@
 ---
-title: "Hide and seek: how PDFs can conceal New Physics"
+title: "SIMUnet: an open-source tool for simultaneous global fits of EFT Wilson coefficients and PDFs"
 authors:
 - Mark Nestor Costantini
 - admin
