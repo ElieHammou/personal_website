@@ -11,10 +11,10 @@ main:
     url: 'publication/'
     weight: 2
   - name: Talks
-    url: '#talks'
+    url: 'talks/'
     weight: 3
   - name: Conference proceedings
-    url: 'content/proceedings/'
+    url: 'proceedings/'
     weight: 4
   - name: CV
     url: uploads/CV_academic.pdf
