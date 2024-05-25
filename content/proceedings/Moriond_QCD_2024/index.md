@@ -13,10 +13,11 @@ eprint: "2405.09270"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication:
+publication_short:
 
-abstract: The interpretation of LHC data, and the assessment of possible hints of new physics, require the precise knowledge of the proton structure in terms of parton distribution functions (PDFs). I present a methodology designed to determine whether and how global PDF fits might inad- vertently ’fit away’ signs of new physics in the high-energy tails of the distributions. I showcase a scenario for the High-Luminosity LHC, in which the PDFs may completely absorb such signs of new physics, thus biasing theoretical predictions and interpretations. I discuss strategies to single out the effects in this scenario and disentangle the inconsistencies that stem from them. This study brings to light the synergy between the high luminosity programme at the LHC and present and future low-energy non-LHC measurements of large-sea quark distributions. I also present the potential of fitting simultaneously the PDFs and the new physics signals.
+abstract: 
+The interpretation of LHC data, and the assessment of possible hints of new physics, require the precise knowledge of the proton structure in terms of parton distribution functions (PDFs). I present a methodology designed to determine whether and how global PDF fits might inad- vertently ’fit away’ signs of new physics in the high-energy tails of the distributions. I showcase a scenario for the High-Luminosity LHC, in which the PDFs may completely absorb such signs of new physics, thus biasing theoretical predictions and interpretations. I discuss strategies to single out the effects in this scenario and disentangle the inconsistencies that stem from them. This study brings to light the synergy between the high luminosity programme at the LHC and present and future low-energy non-LHC measurements of large-sea quark distributions. I also present the potential of fitting simultaneously the PDFs and the new physics signals.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
