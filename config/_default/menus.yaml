@@ -13,18 +13,18 @@ main:
   - name: Talks
     url: 'talks/'
     weight: 3
-  - name: Teaching
-    url: 'teaching/'
-    weight: 4
-  - name: Outreach
-    url: 'outreach/'
-    weight: 5
-  - name: Software development
-    url: 'software_development/'
-    weight: 6
-  - name: Awards
-    url: 'awards/'
-    weight: 7
+  # - name: Teaching
+  #   url: 'teaching/'
+  #   weight: 4
+  # - name: Outreach
+  #   url: 'outreach/'
+  #   weight: 5
+  # - name: Software development
+  #   url: 'software_development/'
+  #   weight: 6
+  # - name: Awards
+  #   url: 'awards/'
+  #   weight: 7
   - name: CV
     url: uploads/CV_academic.pdf
     weight: 8
