@@ -19,7 +19,7 @@ summary: Hide and Seek; How PDFs can conceal New Physics
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ''
+date: '2023-10-06'
 date_end: 
 all_day: false
 
