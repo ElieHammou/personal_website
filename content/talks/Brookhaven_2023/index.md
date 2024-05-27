@@ -1,8 +1,8 @@
 ---
-title: Rencontres de Blois 2023, Conference presentation
+title: Brookhaven Forum 2023, Conference presentation
 
-event: Rencontres de Blois
-event_url: http://blois.in2p3.fr/2023/
+event: Brookhaven Forum 2023
+event_url: https://www.bnl.gov/brookhavenforum/
 
 location: Château Royal de Blois, France
 address:
@@ -40,7 +40,7 @@ links:
   - icon: 
     icon_pack: 
     name: Slides
-    url: 'uploads/Blois_2023.pdf'
+    url: 'uploads/Brookhaven_2023.pdf'
 url_code: ''
 #url_pdf: 'https://www.pbsp.org.uk/wp-content/uploads/2023/07/Hammou_Blois.pdf'
 url_slides: ''
