@@ -1,24 +1,25 @@
 ---
-title: Brookhaven Forum 2023, Conference presentation
+title: Rencontres de Blois 2023, Conference presentation
 
-event: Brookhaven Forum 2023
-event_url: https://www.bnl.gov/brookhavenforum/
+event: Rencontres de Blois
+event_url: http://blois.in2p3.fr/2023/
 
-location: Virtual conference
+location: Château Royal de Blois, France
 address:
   street:
-  city: BNL
+  city: Blois
   region:
   postcode:
-  country: US
+  country: France
 
-summary: Hide and Seek; How PDFs can conceal New Physics
-abstract: 'The interpretation of LHC data, and the assessment of possible hints of new physics, require the precise knowledge of the proton structure in terms of parton distribution functions (PDFs). In this talk, I present a systematic methodology designed to determine whether and how global PDF fits might inadvertently 'fit away' signs of new physics in the high-energy tails of the distributions. I showcase a scenario for the High-Luminosity LHC, in which the PDFs may completely absorb such signs of new physics, thus biasing theoretical predictions and interpretations. I discuss strategies to single out the effects in this scenario and disentangle the inconsistencies that stem from them. This study brings to light the synergy between the high luminosity programme at the LHC and present and future low-energy non-LHC measurements of large-x sea quark distributions.'
-
+summary: The Interplay between Parton Distribution Functions (PDFs) and new physics
+abstract: 'The analysis and the interpretation of the LHC data require a precise determination of two key ingredients at the LHC: the Parton Distribution Functions (PDFs) of the protons and the Wilson coefficients of Effective Field Theories (EFT) parametrising the effects of heavy new physics. The LHC data are exploited to constrain both objects. In this talk I present a new framework that sheds light on the interplay between the parametrization of the proton structure and the parametrization of new physics, by presenting two complementary approaches.
+First of all, I introduce a new framework that allows the determination of PDFs and SMEFT coefficients both separately and in a simultaneous fit, and I will present its application in the context of the interpretation of the top quark legacy data of LHC Run II. Second, I show the potential of global PDF analyses to inadvertently ‘fit away’ signs of new physics, by identifying specific scenarios in which the PDFs may completely absorb signs of new physics, thus biassing theoretical predictions. At the same time, I discuss several strategies to single out and disentangle such effects.
+'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-10-06'
+date: '2023-05-17'
 date_end: 
 all_day: false
 
@@ -39,7 +40,7 @@ links:
   - icon: 
     icon_pack: 
     name: Slides
-    url: 'uploads/Brookhaven_2023.pdf'
+    url: 'uploads/Blois_2023.pdf'
 url_code: ''
 #url_pdf: 'https://www.pbsp.org.uk/wp-content/uploads/2023/07/Hammou_Blois.pdf'
 url_slides: ''
@@ -50,7 +51,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: Hammou_Brookhaven.pdf
+slides: Hammou_Blois.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
