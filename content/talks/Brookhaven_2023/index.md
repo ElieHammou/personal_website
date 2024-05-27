@@ -6,11 +6,11 @@ event_url: https://www.bnl.gov/brookhavenforum/
 
 location: Virtual conference
 address:
-  street: null
-  city: null
-  region: null
-  postcode: null
-  country: null
+  street:
+  city: BNL
+  region:
+  postcode:
+  country: US
 
 summary: Hide and Seek; How PDFs can conceal New Physics
 abstract: 'The interpretation of LHC data, and the assessment of possible hints of new physics, require the precise knowledge of the proton structure in terms of parton distribution functions (PDFs). In this talk, I present a systematic methodology designed to determine whether and how global PDF fits might inadvertently 'fit away' signs of new physics in the high-energy tails of the distributions. I showcase a scenario for the High-Luminosity LHC, in which the PDFs may completely absorb such signs of new physics, thus biasing theoretical predictions and interpretations. I discuss strategies to single out the effects in this scenario and disentangle the inconsistencies that stem from them. This study brings to light the synergy between the high luminosity programme at the LHC and present and future low-energy non-LHC measurements of large-x sea quark distributions.'
