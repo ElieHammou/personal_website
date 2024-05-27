@@ -1,5 +1,5 @@
 ---
-title: Rencontres de Blois 2023, Conference presentation
+title: Rencontres de Blois 2023, Conference
 
 event: Rencontres de Blois
 event_url: http://blois.in2p3.fr/2023/
