@@ -41,6 +41,10 @@ links:
     icon_pack: 
     name: Slides
     url: 'uploads/Moriond_2024.pdf'
+  - icon: 
+    icon_pack: 
+    name: Proceedings
+    url: 'https://arxiv.org/pdf/2405.09270'
 url_code: ''
 #url_pdf: 'https://www.pbsp.org.uk/wp-content/uploads/2023/07/Hammou_Blois.pdf'
 url_slides: ''
