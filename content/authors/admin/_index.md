@@ -4,7 +4,7 @@ title: Elie Hammou
 
 # Full name (for SEO)
 first_name: Elie
-last_name: Hammo
+last_name: Hammou
 
 # Status emoji
 status:
@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Particle Physics
+role: Postdoctoral researcher in Particle Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Cambridge, DAMTP
-    url: https://www.damtp.cam.ac.uk/person/eh651
+  - name: Nikhef Theory group, Amsterdam
+    url: https://www.nikhef.nl/www/en/programs/theoretical-physics/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include (Beyond) the Standard Model physics, Collider Physics and Effective Field Theories.
@@ -29,6 +29,8 @@ interests:
   - Standard Model and Beyond
   - Effective Field Theories
   - Collider physics
+  - Neutrinos
+  - Machine Learning analyses
 
 # Education to show in About widget
 education:
@@ -38,7 +40,7 @@ education:
       year: Current
     - course: MASt of Applied Mathemmatics and Theoretical Physics
       institution: University of Cambridge
-      year: 2022
+      year: 2025
     - course: Diplôme d'ingénieur (Master in physics)
       institution: Ecole polytechnique
       year: 2021
@@ -83,9 +85,23 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student at the [University of Cambridge](https://www.cam.ac.uk/about-the-university), in the Department of Applied Mathematics and Theoretical Physics or [DAMTP](https://www.damtp.cam.ac.uk). I am working with [Prof. Maria Ubiali's group](https://www.pbsp.org.uk/about/). My research focus is particle physics phenomenology. This is a bridge between theoretical and experiemental researches. I work on extending the Standard Model of particles using Effective Field Theory (EFT) terms which allow to describe the effects of potential heavy new physics without knowing its nature in advance. I am currently working on the interplay of Parton Distribution Functions (PDFs) describing the proton's structure and new physics parameterised by EFT.
+I am a postdoctoral researcher at Nikhef (the Dutch National Institute for Subatomic Physics)
+in Amsterdam, where I am a member of the theory group.
+My research focus is particle physics phenomenology, which is the interface between theory and experiment. The
+goal of this field is to interpret the vast amount of data produced by particle colliders, such as the Large
+Hadron Collider (LHC) at CERN, in order to
+test the Standard Model of particle physics and search for signs of new fundamental laws of nature.
 
-I have started my education in France in [Lycée Saint-Louis](https://lycee-saintlouis.fr) and [Ecole polytechnique](https://www.polytechnique.edu) before moving to the UK.
+I am an active member of two international theory collaborations.
+[SMEFiT](https://smefit.science/) develops precision analyses based on Effective Field Theory (EFT), a systematic framework to parametrise possible new physics beyond the Standard Model and confront it with current and future collider measurements.
+[PBSP](https://www.pbsp.org.uk/about/) extends this program by incorporating a detailed treatment of the internal structure of the proton, encoded in Parton Distribution Functions (PDFs), which is a major source of uncertainty in high-energy collider physics.
 
-My research relies greatly on computation method to simulate and analyse collider data. In the future I plan to work toward the identification of relevant datasets and theoretical constraints to ensure the fitting methods we use to hunt new physics are robust.
+I am also a member of the [FASER](https://home.cern/fr/science/experiments/faser) experiment at CERN, which studies some of
+the most elusive particles produced at the LHC: neutrinos. We aim both to better understand this mysterious sector
+of the Standard Model and to search for possible new physics beyond it.
+
+In parallel, I investigate how modern machine-learning techniques, such as unbinned analyses based on neural simulation-based inference, can improve the extraction of physical information from collider data.
+
+I completed my PhD at the [University of Cambridge](https://www.cam.ac.uk/about-the-university), in the Department of Applied Mathematics and Theoretical Physics  ([DAMTP](https://www.damtp.cam.ac.uk)) where I worked with Prof. Maria Ubiali.
+I began my academic training in France at [Lycée Saint-Louis](https://lycee-saintlouis.fr) and [Ecole polytechnique](https://www.polytechnique.edu).
 {style="text-align: justify;"}
