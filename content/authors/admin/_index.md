@@ -38,13 +38,13 @@ education:
     - course: PhD in Particle Physics
       institution: University of Cambridge
       year: 2025
-    - course: MASt of Applied Mathematics and Theoretical Physics
+    - course: MASt in Applied Mathematics and Theoretical Physics
       institution: University of Cambridge
       year: 2022
     - course: Diplôme d'ingénieur (Master in physics)
       institution: Ecole polytechnique
       year: 2021
-    - course: Licence of philosophy (Bachelor)
+    - course: Licence in philosophy (Bachelor)
       institution: Université Paris-Nanterre
       year: 2020
     - course: B.A. in mathematics and physics
@@ -64,7 +64,7 @@ social:
     link: https://scholar.google.com/citations?user=Kbkq-2MAAAAJ&hl=fr&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ElieHammou
   - icon: inspire
     icon_pack: ai
     link: https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=elie%20hammou

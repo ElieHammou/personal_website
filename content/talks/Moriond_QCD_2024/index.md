@@ -1,5 +1,5 @@
 ---
-title: Rencontre de Moriond 2024, Conference
+title: Rencontres de Moriond 2024, Conference
 
 # event: Brookhaven Forum 2023
 # event_url: https://www.bnl.gov/brookhavenforum/

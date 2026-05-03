@@ -1,5 +1,5 @@
 ---
-title: Pint of science 2024, Outreach
+title: Pint of Science 2024, Outreach
 
 # event: Brookhaven Forum 2023
 # event_url: https://www.bnl.gov/brookhavenforum/
