@@ -67,7 +67,7 @@ social:
     link: https://github.com/ElieHammou
   - icon: inspire
     icon_pack: ai
-    link: https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=elie%20hammou
+    link: https://inspirehep.net/authors/2684116
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0009-0004-5612-7729
