@@ -24,5 +24,5 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-projects: ["pdf-smeft, future-colliders"]
+projects: ["pdf-smeft", "future-colliders"]
 ---
