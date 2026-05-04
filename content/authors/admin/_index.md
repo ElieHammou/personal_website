@@ -61,7 +61,7 @@ social:
 #    link: '/#contact'
   - icon: graduation-cap # Alternatively, use `graduation-cap` icon from `fas` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=Kbkq-2MAAAAJ&hl=fr&oi=ao
+    link: https://scholar.google.com/citations
   - icon: github
     icon_pack: fab
     link: https://github.com/ElieHammou
