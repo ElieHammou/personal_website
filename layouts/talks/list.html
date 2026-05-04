@@ -1,0 +1,25 @@
+{{ define "main" }}
+{{ $page := . }}
+
+<div class="universal-wrapper pt-9">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8">
+
+        {{ with $page.Content }}
+        <div class="article-style">{{ . }}</div>
+        {{ end }}
+
+        {{ range $page.Pages.GroupByDate "2006" }}
+        <h2 class="mt-5 mb-1">{{ .Key }}</h2>
+        {{ range .Pages }}
+          {{ partial "li_compact" . }}
+        {{ end }}
+        {{ end }}
+
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}
