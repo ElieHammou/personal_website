@@ -1,5 +1,5 @@
 ---
-title: Software development
+title: Software
 cms_exclude: true
 
 # View.

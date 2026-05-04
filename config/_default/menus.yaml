@@ -16,6 +16,9 @@ main:
   - name: Research directions
     url: 'project/'
     weight: 4
+  - name: Software
+    url: 'software_development/'
+    weight: 5
   # - name: Teaching
   #   url: 'teaching/'
   #   weight: 4
