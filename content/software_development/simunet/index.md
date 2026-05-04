@@ -17,12 +17,11 @@ url_code: "https://github.com/HEP-PBSP/SIMUnet"
 url_pdf: "https://arxiv.org/pdf/2402.03308"
 url_docs: "https://hep-pbsp.github.io/SIMUnet/sphinx/build/html/index.html"
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: ""
+# Featured image
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 
 # View.
 #   1 = List

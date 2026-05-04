@@ -16,6 +16,12 @@ external_link: "https://github.com/HEP-PBSP/colibri"
 url_code: "https://github.com/HEP-PBSP/colibri"
 url_docs: "https://hep-pbsp.github.io/colibri/"
 
+# Featured image
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
 # View.
 #   1 = List
 #   2 = Compact

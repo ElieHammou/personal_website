@@ -17,6 +17,12 @@ url_pdf: "https://arxiv.org/pdf/2302.06660"
 url_docs: "https://lhcfitnikhef.github.io/smefit/"
 url_web: "https://smefit.science"
 
+# Featured image
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
 # View.
 #   1 = List
 #   2 = Compact
