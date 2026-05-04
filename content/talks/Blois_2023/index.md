@@ -12,10 +12,11 @@ address:
   postcode:
   country: France
 
-summary: The Interplay between Parton Distribution Functions (PDFs) and new physics
-abstract: 'The analysis and the interpretation of the LHC data require a precise determination of two key ingredients at the LHC: the Parton Distribution Functions (PDFs) of the protons and the Wilson coefficients of Effective Field Theories (EFT) parametrising the effects of heavy new physics. The LHC data are exploited to constrain both objects. In this talk I present a new framework that sheds light on the interplay between the parametrization of the proton structure and the parametrization of new physics, by presenting two complementary approaches.
-First of all, I introduce a new framework that allows the determination of PDFs and SMEFT coefficients both separately and in a simultaneous fit, and I will present its application in the context of the interpretation of the top quark legacy data of LHC Run II. Second, I show the potential of global PDF analyses to inadvertently ‘fit away’ signs of new physics, by identifying specific scenarios in which the PDFs may completely absorb signs of new physics, thus biassing theoretical predictions. At the same time, I discuss several strategies to single out and disentangle such effects.
-'
+summary: "The Interplay between Parton Distribution Functions (PDFs) and new physics"
+abstract: |
+  The analysis and the interpretation of the LHC data require a precise determination of two key ingredients at the LHC: the Parton Distribution Functions (PDFs) of the protons and the Wilson coefficients of Effective Field Theories (EFT) parametrising the effects of heavy new physics. The LHC data are exploited to constrain both objects. In this talk I present a new framework that sheds light on the interplay between the parametrization of the proton structure and the parametrization of new physics, by presenting two complementary approaches.
+
+  First of all, I introduce a new framework that allows the determination of PDFs and SMEFT coefficients both separately and in a simultaneous fit, and I will present its application in the context of the interpretation of the top quark legacy data of LHC Run II. Second, I show the potential of global PDF analyses to inadvertently "fit away" signs of new physics, by identifying specific scenarios in which the PDFs may completely absorb signs of new physics, thus biassing theoretical predictions. At the same time, I discuss several strategies to single out and disentangle such effects.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -55,7 +56,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: Hammou_Blois.pdf
+slides: ''
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
